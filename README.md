@@ -8,6 +8,6 @@
 - Descubriendo mundos nuevos estoy aprendiendo poco a poco a programar y voy a estar compartiendo todo lo que aprenda.
 - Gracias por llegar hasta aca, un fuerte abrazo.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderSDF&show_icons=true&theme=radical)](https://github.com/anuraghazra&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderSDF&show_icons=true&theme=synthwave)](https://github.com/anuraghazra&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderSDF&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderSDF&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
