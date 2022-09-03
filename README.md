@@ -1,5 +1,5 @@
 - # console.log('Hello World!!')
-- ### 👋 Hello there (Read it with the voice Obi-Wan)
+- ### Hello there👋 (Read it with the voice Obi-Wan)
 - I introduce myself my name is Alexander, young entrepreneur with desire to learn.
 - Discovering new worlds, Little by little I am learning to program and I will be sharing everything I learn.
 - Thank you for coming here, a big hug.
