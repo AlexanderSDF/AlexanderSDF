@@ -6,7 +6,7 @@
 - ------------------------------------------------------
 ### Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/alexander-paniagua-84873a244/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/10210567/140838329-299967f6-0fb5-427d-b1f1-d5140b9b252f.png" alt="Alexander Paniagua" height="25" width="25" /></a>
+<a href="https://www.linkedin.com/in/alexanderjoel/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/10210567/140838329-299967f6-0fb5-427d-b1f1-d5140b9b252f.png" alt="Alexander Paniagua" height="25" width="25" /></a>
 </p>
 
 ### Languages and Tools 🛠 
