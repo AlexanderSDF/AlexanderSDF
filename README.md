@@ -10,9 +10,12 @@
 <a href="https://www.linkedin.com/in/alexanderjoel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin Alex Joel" height="30" width="40" /></a>
 </p>
 
+### My portfolio:
+<a href="https://proyecto-portfolio.vercel.app/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Portfolio  Alex Joel" height="30" width="40" /></a>
+
 ### Languages and Tools 🛠 
 <p align="left"> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+  <a margin-left"50px" href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/products/illustrator" target="_blank" rel="noreferrer"> <img 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="illustrator" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
@@ -30,3 +33,4 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexanderSDF&show_icons=true&theme=dracula" /></a><a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderSDF&theme=dracula&layout=compact" /></a>
 
 ## May the Force be with you... 👋 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=AlexanderSDF&label=Profile%20views&color=00c7ff&style=for-the-badge"/></p>
