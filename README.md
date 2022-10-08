@@ -30,7 +30,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator
 </p>
 
 - ------------------------------------------------------
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexanderSDF&show_icons=true&theme=dracula" /></a><a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderSDF&theme=dracula&layout=compact" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?&show_icons=true&theme=dracula" /></a><a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderSDF&theme=dracula&layout=compact" /></a>
 
 ## May the Force be with you... 👋 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=AlexanderSDF&label=Profile%20views&color=00c7ff&style=for-the-badge"/></p>
