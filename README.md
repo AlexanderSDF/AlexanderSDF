@@ -33,5 +33,5 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexanderSDF&show_icons=true&theme=dracula" /></a><a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderSDF&theme=dracula&layout=compact" /></a>
 
 ## May the Force be with you... 👋 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=AlexanderSDF&label=Profile%20views&color=00c7ff&style=for-the-badge" height="30px"/></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=AlexanderSDF&label=Profile%20views&color=2280cb&style=for-the-badge" height="30px"/></p>
 <a href="https://wakatime.com/@df7fa5ac-fba2-4d32-b36d-8978b155430c"><img src="https://wakatime.com/badge/user/df7fa5ac-fba2-4d32-b36d-8978b155430c.svg" alt="Total time coded since Oct 8 2022" height="30px" /></a>
